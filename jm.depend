@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1682081752 source:c:\users\joão marcos\downloads\wavesaudio.maxxaudioprofordell2019_fh4rh281wavaa!app\jm\vetor.cpp
+	"vetor.h"
+
+1682081682 c:\users\joão marcos\downloads\wavesaudio.maxxaudioprofordell2019_fh4rh281wavaa!app\jm\vetor.h
+	<iostream>
+
+1682081156 source:c:\users\joão marcos\downloads\wavesaudio.maxxaudioprofordell2019_fh4rh281wavaa!app\jm\main.cpp
+	<iostream>
+	"vetor.h"
+	<time.h>
+
